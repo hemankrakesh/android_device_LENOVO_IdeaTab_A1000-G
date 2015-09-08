@@ -1,0 +1,5 @@
+#
+# system.prop for IdeaTab_A1000-G
+#
+rild.libpath=/system/vendor/lib/?
+rild.libargs= ?
