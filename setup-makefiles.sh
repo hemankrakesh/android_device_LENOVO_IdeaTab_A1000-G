@@ -14,8 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-DEVICE=devicename
-VENDOR=manufacturer
+DEVICE=IdeaTab_A1000-G
+VENDOR=lenovo
 OUTDIR=vendor/$VENDOR/$DEVICE
 MAKEFILE=../../../$OUTDIR/$DEVICE-vendor-blobs.mk
 mkdir -p ../../../vendor/$VENDOR/$DEVICE
